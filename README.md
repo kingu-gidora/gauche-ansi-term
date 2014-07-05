@@ -1,6 +1,6 @@
-# ansi-term
+# guache-ansi-term
 
-A simple library to provide ansi terminal support.
+A guache scheme library that provides ansi terminal support.
 
 ### exports
 
