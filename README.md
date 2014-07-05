@@ -2,6 +2,14 @@
 
 A guache scheme library that provides ansi terminal support.
 
+### example
+
+```scheme
+(use ansi-term :prefix term-)
+
+(print (term-mode 'red) "I'm red!" (term-mode 'reset))
+```
+
 ### exports
 
   * (__position__ *line* *column*) - set cursor position
@@ -48,10 +56,3 @@ A guache scheme library that provides ansi terminal support.
   * 'lightcyan
   * 'white
 
-### example
-
-```scheme
-(use ansi-term :prefix ansi-)
-
-(print (ansi-mode 'red) "I'm red!" (ansi-mode 'reset))
-```
