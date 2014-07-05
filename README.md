@@ -1,4 +1,4 @@
-# guache-ansi-term
+# guache: ansi-term
 
 A guache scheme library that provides ansi terminal support.
 
