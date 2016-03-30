@@ -1,5 +1,7 @@
 # guache: ansi-term
 
+**this is no longer being maintained**
+
 A guache scheme library that provides ansi terminal support.
 
 ### example
